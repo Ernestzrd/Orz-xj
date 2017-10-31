@@ -1,0 +1,8 @@
+#ignore file and directory
+.git
+venv
+.idea
+Orz/Orz/settings.pyc
+
+
+
